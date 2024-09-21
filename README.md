@@ -1,4 +1,6 @@
-# Statistics assignment for methods of scientific research
+# Statistics assignment for Methods for Scientific Research
+
+This is the Statistics assignment of the Methods for Scientific Research course. The course was taken during 2023-2024.
 
 ## General info
 
